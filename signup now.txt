@@ -1,0 +1,64 @@
+<html>
+<head>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<style>
+body{
+background-color:#FF00A2;
+}
+
+</style>
+</head>
+<script>
+window.image;
+
+
+</script>
+<body>
+<div class="row">
+<div class="col-md-4">
+</div>
+<div class="col-md-4">
+<br/>
+<br/>
+
+<div class="panel panel-default">
+  <div class="panel-body">
+<center><h1 style="color:#334EFF;">Signup Form</h1></center>
+<center>PLease fill in this form to create an account!</center>
+<br/>
+<br/>
+<form>
+<input type="text" class="form-control" placeholder="Enter Your Name*">
+<br/>
+<input type="text" class="form-control" placeholder="Middle Name">
+<br/>
+<input type="text" class="form-control" placeholder="Last Name*">
+<br/>
+<input type="date">
+<br/>
+<br/>
+<input type="text" class="form-control" placeholder="Enter Your Email Id*">
+<br/>
+<input type="text" class="form-control" placeholder="Enter Your Phone No*">
+<br/>
+<input type="password" class="form-control" placeholder="Password">
+<br/>
+<input type="password" class="form-control" placeholder="Confirm Password">
+<br/>
+<input type="checkbox">Iaccept the Terms of User & Privecy policy
+<br/>
+<br/>
+<input type="submit" value="Signup" class="btn btn-primary btn-lg btn-block" style="background-color:#FF5733; color:#ffffff;">
+</form>
+<center>Already have an account? <a href="login form.html">Login here</a></center>
+ 
+</div>
+</div>
+</div>
+<div class="col-md-4">
+
+</div>
+
+</div>
+</body>
+</html>
